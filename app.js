@@ -1,1 +1,1 @@
-alert(Hola)
+alert('Hola, que tal amigos')
